@@ -1,0 +1,254 @@
+booster[0]:
+0:[vars22<105.949997] yes=1,no=2,missing=1
+	1:[vars27<0.135049999] yes=3,no=4,missing=3
+		3:[vars13<47.0349998] yes=7,no=8,missing=7
+			7:leaf=-1.93822396
+			8:leaf=-0
+		4:[vars1<20.2999992] yes=9,no=10,missing=9
+			9:[vars6<0.119749993] yes=15,no=16,missing=15
+				15:leaf=-1.33333337
+				16:leaf=0.5
+			10:leaf=1.27272725
+	2:[vars21<20.6450005] yes=5,no=6,missing=5
+		5:[vars20<17.7399998] yes=11,no=12,missing=11
+			11:leaf=-1.57894742
+			12:leaf=1
+		6:[vars7<0.0488649979] yes=13,no=14,missing=13
+			13:[vars15<0.0171750002] yes=17,no=18,missing=17
+				17:leaf=1.38461542
+				18:leaf=-1.33333337
+			14:[vars4<0.0827400014] yes=19,no=20,missing=19
+				19:leaf=0.5
+				20:leaf=1.94557822
+booster[1]:
+0:[vars27<0.150999993] yes=1,no=2,missing=1
+	1:[vars23<957.450012] yes=3,no=4,missing=3
+		3:[vars1<21.4349995] yes=7,no=8,missing=7
+			7:[vars11<2.09749985] yes=11,no=12,missing=11
+				11:leaf=-1.11502993
+				12:leaf=-0.237902462
+			8:[vars20<14.4300003] yes=13,no=14,missing=13
+				13:leaf=-0.923128545
+				14:[vars28<0.269600004] yes=15,no=16,missing=15
+					15:leaf=-0.11457026
+					16:leaf=1.22207761
+		4:[vars26<0.222950011] yes=9,no=10,missing=9
+			9:leaf=-0.240892872
+			10:leaf=0.965598047
+	2:[vars13<22.1100006] yes=5,no=6,missing=5
+		5:leaf=0.0628590882
+		6:leaf=1.11284673
+booster[2]:
+0:[vars7<0.0492300019] yes=1,no=2,missing=1
+	1:[vars21<29.7950001] yes=3,no=4,missing=3
+		3:[vars10<0.500550032] yes=7,no=8,missing=7
+			7:leaf=-0.968951583
+			8:leaf=0.226220533
+		4:[vars23<766.450012] yes=9,no=10,missing=9
+			9:[vars14<0.0072949999] yes=13,no=14,missing=13
+				13:leaf=-0.66814512
+				14:leaf=-0.0909755304
+			10:leaf=0.803544641
+	2:[vars21<23.7399998] yes=5,no=6,missing=5
+		5:[vars23<810.800049] yes=11,no=12,missing=11
+			11:leaf=-0.766704679
+			12:leaf=0.573672354
+		6:leaf=0.933438122
+booster[3]:
+0:[vars22<102.050003] yes=1,no=2,missing=1
+	1:[vars15<0.0120250005] yes=3,no=4,missing=3
+		3:[vars16<0.012205] yes=7,no=8,missing=7
+			7:leaf=-0.566054463
+			8:leaf=0.682441354
+		4:[vars6<0.103699997] yes=9,no=10,missing=9
+			9:leaf=-0.884855926
+			10:leaf=-0.188635722
+	2:[vars26<0.207000002] yes=5,no=6,missing=5
+		5:leaf=-0.450744033
+		6:[vars1<16.6049995] yes=11,no=12,missing=11
+			11:leaf=0.0665763393
+			12:[vars28<0.254150003] yes=13,no=14,missing=13
+				13:leaf=0.243645057
+				14:leaf=0.871623456
+booster[4]:
+0:[vars23<929.800049] yes=1,no=2,missing=1
+	1:[vars24<0.140850008] yes=3,no=4,missing=3
+		3:[vars9<0.0565499999] yes=7,no=8,missing=7
+			7:leaf=0.0836464167
+			8:[vars4<0.0993099958] yes=11,no=12,missing=11
+				11:leaf=-0.802990019
+				12:leaf=-0.154391721
+		4:[vars1<19.4799995] yes=9,no=10,missing=9
+			9:leaf=-0.183960289
+			10:leaf=0.53527087
+	2:[vars5<0.0856299996] yes=5,no=6,missing=5
+		5:leaf=0.108646423
+		6:leaf=0.659024
+booster[5]:
+0:[vars27<0.0917700008] yes=1,no=2,missing=1
+	1:[vars25<0.0992100015] yes=3,no=4,missing=3
+		3:leaf=0.0511988178
+		4:leaf=-0.630075812
+	2:[vars21<25.6800003] yes=5,no=6,missing=5
+		5:[vars23<810.800049] yes=7,no=8,missing=7
+			7:leaf=-0.477892846
+			8:leaf=0.242780358
+		6:leaf=0.596811056
+booster[6]:
+0:[vars10<0.563899994] yes=1,no=2,missing=1
+	1:[vars28<0.282800019] yes=3,no=4,missing=3
+		3:[vars27<0.11135] yes=5,no=6,missing=5
+			5:leaf=-0.621853232
+			6:leaf=-0.136088178
+		4:[vars21<26.3699989] yes=7,no=8,missing=7
+			7:leaf=-0.131580204
+			8:leaf=0.372078389
+	2:leaf=0.485737562
+booster[7]:
+0:[vars13<19.7900009] yes=1,no=2,missing=1
+	1:leaf=-0.452021301
+	2:[vars26<0.19295001] yes=3,no=4,missing=3
+		3:leaf=-0.155309826
+		4:[vars24<0.136050001] yes=5,no=6,missing=5
+			5:leaf=0.0343853049
+			6:leaf=0.510449111
+booster[8]:
+0:[vars3<694.5] yes=1,no=2,missing=1
+	1:[vars18<0.0174399987] yes=3,no=4,missing=3
+		3:leaf=0.101491325
+		4:leaf=-0.428473026
+	2:leaf=0.309917212
+booster[9]:
+0:[vars21<23.3499985] yes=1,no=2,missing=1
+	1:leaf=-0.291838497
+	2:[vars15<0.0177149996] yes=3,no=4,missing=3
+		3:leaf=0.352039605
+		4:leaf=-0.116786189
+booster[10]:
+0:[vars13<22.9400005] yes=1,no=2,missing=1
+	1:leaf=-0.304999173
+	2:[vars26<0.252350003] yes=3,no=4,missing=3
+		3:leaf=-0.0538524985
+		4:leaf=0.36955142
+booster[11]:
+0:[vars28<0.294449985] yes=1,no=2,missing=1
+	1:[vars8<0.165100008] yes=3,no=4,missing=3
+		3:leaf=0.070260115
+		4:leaf=-0.300150096
+	2:leaf=0.241580755
+booster[12]:
+0:[vars4<0.0904249996] yes=1,no=2,missing=1
+	1:leaf=-0.209459081
+	2:leaf=0.165747106
+booster[13]:
+0:[vars23<739.199951] yes=1,no=2,missing=1
+	1:leaf=-0.184773803
+	2:leaf=0.158803716
+booster[14]:
+0:[vars1<20.1949997] yes=1,no=2,missing=1
+	1:leaf=-0.162515432
+	2:leaf=0.192896008
+booster[15]:
+0:[vars4<0.0994049981] yes=1,no=2,missing=1
+	1:leaf=-0.141113773
+	2:leaf=0.192844719
+booster[16]:
+0:[vars13<31.2849998] yes=1,no=2,missing=1
+	1:leaf=-0.124441974
+	2:leaf=0.184012473
+booster[17]:
+0:[vars8<0.166350007] yes=1,no=2,missing=1
+	1:leaf=0.168193087
+	2:leaf=-0.11265298
+booster[18]:
+0:[vars26<0.216399997] yes=1,no=2,missing=1
+	1:leaf=-0.135304034
+	2:leaf=0.138049707
+booster[19]:
+0:[vars1<20.1549988] yes=1,no=2,missing=1
+	1:leaf=-0.115020968
+	2:leaf=0.139178485
+booster[20]:
+0:[vars18<0.0160499997] yes=1,no=2,missing=1
+	1:leaf=0.126362026
+	2:leaf=-0.112669177
+booster[21]:
+0:[vars28<0.28065002] yes=1,no=2,missing=1
+	1:leaf=-0.101793624
+	2:leaf=0.117538542
+booster[22]:
+0:[vars23<739.199951] yes=1,no=2,missing=1
+	1:leaf=-0.1084271
+	2:leaf=0.108481698
+booster[23]:
+0:[vars15<0.01767] yes=1,no=2,missing=1
+	1:leaf=0.0938311517
+	2:leaf=-0.0959301367
+booster[24]:
+0:[vars19<0.00267850002] yes=1,no=2,missing=1
+	1:leaf=-0.123543233
+	2:leaf=0.110979222
+booster[25]:
+0:[vars27<0.111000001] yes=1,no=2,missing=1
+	1:leaf=-0.0834826082
+	2:leaf=0.0771682858
+booster[26]:
+0:[vars15<0.01767] yes=1,no=2,missing=1
+	1:leaf=0.0956215858
+	2:leaf=-0.102177419
+booster[27]:
+0:[vars13<26.4350014] yes=1,no=2,missing=1
+	1:leaf=-0.0859543309
+	2:leaf=0.0793288723
+booster[28]:
+0:[vars18<0.0157900006] yes=1,no=2,missing=1
+	1:leaf=0.0762099028
+	2:leaf=-0.0762502477
+booster[29]:
+0:[vars27<0.111000001] yes=1,no=2,missing=1
+	1:leaf=-0.0755647942
+	2:leaf=0.0748014674
+booster[30]:
+0:[vars1<19.3149986] yes=1,no=2,missing=1
+	1:leaf=-0.0769876018
+	2:leaf=0.0796221644
+booster[31]:
+0:[vars19<0.00274749985] yes=1,no=2,missing=1
+	1:leaf=-0.0656509623
+	2:leaf=0.0662918538
+booster[32]:
+0:[vars15<0.01767] yes=1,no=2,missing=1
+	1:leaf=0.070018582
+	2:leaf=-0.0714419186
+booster[33]:
+0:[vars27<0.111000001] yes=1,no=2,missing=1
+	1:leaf=-0.0581898578
+	2:leaf=0.0563970841
+booster[34]:
+0:[vars8<0.172349989] yes=1,no=2,missing=1
+	1:leaf=0.0540080331
+	2:leaf=-0.0543165132
+booster[35]:
+0:[vars28<0.269600004] yes=1,no=2,missing=1
+	1:leaf=-0.0555742867
+	2:leaf=0.0546129979
+booster[36]:
+0:[vars8<0.172349989] yes=1,no=2,missing=1
+	1:leaf=0.0430557504
+	2:leaf=-0.0432228595
+booster[37]:
+0:[vars19<0.00275600003] yes=1,no=2,missing=1
+	1:leaf=-0.0438664034
+	2:leaf=0.0436176993
+booster[38]:
+0:[vars20<15.6399994] yes=1,no=2,missing=1
+	1:leaf=-0.0402085893
+	2:leaf=0.0401006863
+booster[39]:
+0:[vars15<0.017310001] yes=1,no=2,missing=1
+	1:leaf=0.0375822932
+	2:leaf=-0.0375977941
+booster[40]:
+0:[vars20<15.6399994] yes=1,no=2,missing=1
+	1:leaf=-0.023135284
+	2:leaf=0.0230609849
